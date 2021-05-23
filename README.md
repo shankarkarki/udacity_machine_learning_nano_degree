@@ -1,6 +1,6 @@
 # Machine Learning Deployment using AWS SageMaker
 
-The mini-projects and the project are read and practice thoroughly  as a part of Machine Learning Engineer Nanodegree by Udacity. Marvelous environment and Code was developed by the Udacity team and ***is not my original work***.
+The mini-projects and the project are read and practice thoroughly  as a part of Machine Learning Engineer Nanodegree by Udacity. Marvelous AWS Console Environment and Code was developed by the Udacity team and ***is not my original work***.
 
 This repository contains code and associated files for deploying a **IMDB** Sentiment Analysis ,.................... using AWS SageMaker.
 
